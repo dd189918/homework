@@ -1,0 +1,49 @@
+ body {
+ 	background: #F4F1F8;
+ }
+table {
+	border-collapse: collapse; 
+    line-height: 1.1;
+    font-family:  sans-serif;
+    background:  radial-gradient(farthest-corner at 50% 50%, white, #DCECF8);
+    color: #0C213B;
+    width: 400px; /* Ширина таблицы */  
+ /* height: 100px;*/
+    border: 1px solid blue; /* Рамка вокруг таблицы */
+    margin:  45px 0px 0px 85px; /* рвзмешения  таблицу на страницы */
+
+}
+img{
+	/*margin:10px 0px 0px 10px;*/
+	height: 385px;
+	width: 610px;
+
+	float: left;
+	
+    
+}
+th{
+	height: 30px;
+}
+h1{
+	margin: 0px 0px 0px 400px;
+}
+.pic2 {
+	/*margin:-200px 0px px 795px;-*/
+	height: 385px;
+	width:610px;	
+	float: right;
+    margin-right: 26px; 	
+}
+.tab1{
+border-collapse: collapse; 
+    line-height: 1.1;
+    font-family:  sans-serif;
+    background:  radial-gradient(farthest-corner at 50% 50%, white, #DCECF8);
+    color: #0C213B;
+    width: 400px; /* Ширина таблицы */  
+ /* height: 100px;*/
+    border: 1px solid blue; /* Рамка вокруг таблицы */	
+    float: right;
+    margin: -185px 130px 0px 0px;
+}
